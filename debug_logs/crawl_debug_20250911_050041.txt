@@ -1,0 +1,33 @@
+
+=== 페이지 1 크롤링 시작 ===
+URL: https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=list&keyword=%EB%94%94%EB%B9%84&page=1
+도메인: https://kosra.org
+선택자 [1/15]: td.td_subject .bo_tit a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [2/15]: td.subject.left.txtBreak a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [3/15]: td.subject a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [4/15]: .title a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [5/15]: .subject a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [6/15]: td.kboard-list-title a
+  → 발견된 링크: 10개
+    링크 1: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13999 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13999
+    링크 2: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13959 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13959
+    링크 3: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13911 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13911
+    링크 4: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13900 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13900
+    링크 5: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13883 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13883
+    링크 6: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13852 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13852
+    링크 7: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13831 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13831
+    링크 8: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13829 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13829
+    링크 9: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13814 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13814
+    링크 10: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13800 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13800
+  → 결과: 성공 (수집된 링크: 10개)
+  → 선택자 성공! 다음 선택자 건너뛰기

@@ -1,0 +1,50 @@
+
+=== 페이지 2 크롤링 시작 ===
+URL: https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13999
+도메인: https://kosra.org
+선택자 [1/15]: td.td_subject .bo_tit a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [2/15]: td.subject.left.txtBreak a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [3/15]: td.subject a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [4/15]: .title a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [5/15]: .subject a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [6/15]: td.kboard-list-title a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [7/15]: .kboard-list-title a
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [8/15]: a[href*="/article/"]
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [9/15]: td a[href*="/article/"]
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [10/15]: a[href*="view"]
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [11/15]: a[href*="read"]
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [12/15]: a[href*="detail"]
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [13/15]: a[href*="post"]
+  → 발견된 링크: 0개
+  → 결과: 실패 (링크 없음)
+선택자 [14/15]: a[href*="document"]
+  → 발견된 링크: 3개
+    링크 1: https://kosra.org/login?redirect_to=%2F%25ec%259e%2590%25ec%259c%25a0%25ea%25b2%258c%25ec%258b%259c%25ed%258c%2590%3Fpageid%3D1%26mod%3Ddocument%26keyword%3D%25EB%2594%2594%25EB%25B9%2584%26uid%3D13999 → https://kosra.org/login?redirect_to=%2F%25ec%259e%2590%25ec%259c%25a0%25ea%25b2%258c%25ec%258b%259c%25ed%258c%2590%3Fpageid%3D1%26mod%3Ddocument%26keyword%3D%25EB%2594%2594%25EB%25B9%2584%26uid%3D13999
+    링크 2: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13998 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=13998
+    링크 3: /%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=14000 → https://kosra.org/%ec%9e%90%ec%9c%a0%ea%b2%8c%ec%8b%9c%ed%8c%90?pageid=1&mod=document&keyword=%EB%94%94%EB%B9%84&uid=14000
+  → 결과: 성공 (수집된 링크: 3개)
+  → 선택자 성공! 다음 선택자 건너뛰기

@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.anthropic.com)",
+      "Bash(claude mcp add:*)",
+      "Bash(python3 -m pip install:*)",
+      "claude --dangerously-skip-permissions",
+      "Bash(python3:*)",
+      "Bash(test:*)",
+      "Bash(ls:*)",
+      "Bash(claude doctor)",
+      "Bash(sudo apt:*)",
+      "Bash(sudo apt install:*)",
+      "Bash(rm:*)",
+      "Bash(mkdir:*)",
+      "Bash(sudo npm i -g @anthropic-ai/claude-code)"
+    ],
+    "deny": []
+  }
+}

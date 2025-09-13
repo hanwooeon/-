@@ -1,0 +1,558 @@
+2025-08-15 16:26:48,755 - __main__ - ERROR - 시스템 초기화 실패: name 'ExcelWriter' is not defined
+2025-08-15 19:01:49,368 - __main__ - ERROR - 시스템 초기화 실패: name 'ExcelWriter' is not defined
+2025-08-15 19:01:57,364 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-15 19:01:57,365 - __main__ - INFO - URL 분석 시작: https://example.com
+2025-08-15 19:01:57,365 - crawler.single_url_crawler - INFO - 크롤링 시작: https://example.com
+2025-08-15 19:01:58,022 - crawler.single_url_crawler - INFO - 크롤링 완료: https://example.com
+2025-08-15 19:01:59,032 - __main__ - INFO - URL 분석 완료: https://example.com (위험점수: 0)
+2025-08-15 19:04:37,638 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-15 19:04:37,644 - __main__ - INFO - URL 분석 시작: https://example.com
+2025-08-15 19:04:37,644 - crawler.single_url_crawler - INFO - 크롤링 시작: https://example.com
+2025-08-15 19:05:09,630 - crawler.single_url_crawler - INFO - 크롤링 완료: https://example.com
+2025-08-15 19:05:10,642 - __main__ - INFO - URL 분석 완료: https://example.com (위험점수: 0)
+2025-08-15 19:22:06,397 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-15 19:22:35,271 - __main__ - INFO - URL 분석 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-15 19:22:35,272 - crawler.single_url_crawler - INFO - 크롤링 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-15 19:22:35,637 - crawler.single_url_crawler - INFO - 크롤링 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-15 19:22:36,648 - __main__ - INFO - URL 분석 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/ (위험점수: 0)
+2025-08-15 19:24:38,092 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 01:49:45,552 - __main__ - ERROR - 키워드 로드 중 오류: name 'created_at' is not defined
+2025-08-16 02:24:53,762 - __main__ - ERROR - 키워드 로드 중 오류: name 'created_at' is not defined
+2025-08-16 02:39:13,584 - __main__ - ERROR - 키워드 로드 중 오류: exec() takes at least 1 positional argument (0 given)
+2025-08-16 03:32:29,790 - __main__ - ERROR - 시스템 초기화 실패: 설정 오류가 있습니다. 설정을 확인해주세요.
+2025-08-16 03:32:44,095 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 03:32:44,095 - __main__ - ERROR - 시스템 초기화 실패: EOF when reading a line
+2025-08-16 03:34:57,895 - __main__ - ERROR - 시스템 초기화 실패: 설정 오류가 있습니다. 설정을 확인해주세요.
+2025-08-16 03:35:10,020 - __main__ - ERROR - 시스템 초기화 실패: 설정 오류가 있습니다. 설정을 확인해주세요.
+2025-08-16 03:35:22,574 - __main__ - ERROR - 시스템 초기화 실패: 설정 오류가 있습니다. 설정을 확인해주세요.
+2025-08-16 03:35:37,406 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 03:35:37,406 - __main__ - INFO - URL 분석 시작: https://example.com
+2025-08-16 03:35:37,407 - crawler.single_url_crawler - INFO - 크롤링 시작: https://example.com
+2025-08-16 03:35:38,199 - crawler.single_url_crawler - INFO - 크롤링 완료: https://example.com
+2025-08-16 03:35:39,211 - __main__ - INFO - URL 분석 완료: https://example.com (위험점수: 0)
+2025-08-16 03:36:15,590 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 03:37:25,192 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 03:39:38,880 - __main__ - INFO - URL 분석 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 03:39:38,881 - crawler.single_url_crawler - INFO - 크롤링 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 03:39:39,259 - crawler.single_url_crawler - INFO - 크롤링 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 03:39:40,854 - __main__ - INFO - URL 분석 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/ (위험점수: 0)
+2025-08-16 04:24:19,894 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 04:31:54,926 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/250670/
+2025-08-16 04:31:54,927 - crawler.single_url_crawler - INFO - 크롤링 시작: https://junginfood.com/article/qa/6/250670/
+2025-08-16 04:31:55,248 - crawler.single_url_crawler - INFO - 크롤링 완료: https://junginfood.com/article/qa/6/250670/
+2025-08-16 04:31:56,272 - __main__ - ERROR - URL 분석 중 오류 발생: sequence item 0: expected str instance, dict found
+2025-08-16 04:32:05,577 - __main__ - INFO - URL 분석 시작: https://moojimoojius.co.kr/article/%EC%83%81%ED%92%88-qa/6/399081/
+2025-08-16 04:32:05,577 - crawler.single_url_crawler - INFO - 크롤링 시작: https://moojimoojius.co.kr/article/%EC%83%81%ED%92%88-qa/6/399081/
+2025-08-16 04:32:05,791 - crawler.single_url_crawler - INFO - 크롤링 완료: https://moojimoojius.co.kr/article/%EC%83%81%ED%92%88-qa/6/399081/
+2025-08-16 04:32:06,805 - __main__ - ERROR - URL 분석 중 오류 발생: sequence item 0: expected str instance, dict found
+2025-08-16 04:32:25,289 - __main__ - INFO - URL 분석 시작: https://www.kusta.or.kr/bbs/board.php?bo_table=mypage&wr_id=42707&sst=wr_hit&sod=asc&sop=and&page=59
+2025-08-16 04:32:25,290 - crawler.single_url_crawler - INFO - 크롤링 시작: https://www.kusta.or.kr/bbs/board.php?bo_table=mypage&wr_id=42707&sst=wr_hit&sod=asc&sop=and&page=59
+2025-08-16 04:32:25,469 - crawler.single_url_crawler - INFO - 크롤링 완료: https://www.kusta.or.kr/bbs/board.php?bo_table=mypage&wr_id=42707&sst=wr_hit&sod=asc&sop=and&page=59
+2025-08-16 04:32:26,482 - __main__ - ERROR - URL 분석 중 오류 발생: 'total_detections'
+2025-08-16 05:22:59,819 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 05:23:03,802 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/250670/
+2025-08-16 05:23:03,803 - crawler.single_url_crawler - INFO - 크롤링 시작: https://junginfood.com/article/qa/6/250670/
+2025-08-16 05:23:04,069 - crawler.single_url_crawler - INFO - 크롤링 완료: https://junginfood.com/article/qa/6/250670/
+2025-08-16 05:23:05,088 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/250670/ (위험점수: 4)
+2025-08-16 05:23:23,895 - __main__ - INFO - URL 분석 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:23:23,895 - crawler.single_url_crawler - INFO - 크롤링 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:23:24,348 - crawler.single_url_crawler - INFO - 크롤링 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:23:25,360 - __main__ - INFO - URL 분석 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/ (위험점수: 0)
+2025-08-16 05:26:11,823 - __main__ - INFO - URL 분석 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:26:11,824 - crawler.single_url_crawler - INFO - 크롤링 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:26:12,163 - crawler.single_url_crawler - INFO - 크롤링 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:26:13,199 - __main__ - INFO - URL 분석 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/ (위험점수: 0)
+2025-08-16 05:26:19,393 - __main__ - INFO - URL 분석 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:26:19,394 - crawler.single_url_crawler - INFO - 크롤링 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:26:19,903 - crawler.single_url_crawler - INFO - 크롤링 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:26:20,917 - __main__ - INFO - URL 분석 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/ (위험점수: 0)
+2025-08-16 05:26:28,879 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 05:26:30,607 - __main__ - INFO - URL 분석 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:26:30,607 - crawler.single_url_crawler - INFO - 크롤링 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:26:31,142 - crawler.single_url_crawler - INFO - 크롤링 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:26:32,159 - __main__ - ERROR - URL 분석 중 오류 발생: 'content'
+2025-08-16 05:57:57,625 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 05:58:00,420 - __main__ - INFO - URL 분석 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:58:00,420 - crawler.single_url_crawler - INFO - 크롤링 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:58:01,334 - crawler.single_url_crawler - INFO - 크롤링 완료: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 05:58:02,347 - __main__ - ERROR - URL 분석 중 오류 발생: 'content'
+2025-08-16 06:30:40,651 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 06:30:42,779 - __main__ - INFO - URL 분석 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 06:30:50,250 - __main__ - ERROR - URL 분석 중 오류 발생: 'content'
+2025-08-16 07:14:05,141 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 07:14:16,175 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/250670/
+2025-08-16 07:14:23,369 - __main__ - ERROR - URL 분석 중 오류 발생: 'content'
+2025-08-16 07:14:29,421 - __main__ - INFO - URL 분석 시작: https://moojimoojius.co.kr/article/%EC%83%81%ED%92%88-qa/6/399081/
+2025-08-16 07:14:34,577 - __main__ - ERROR - URL 분석 중 오류 발생: 'content'
+2025-08-16 07:14:42,774 - __main__ - INFO - URL 분석 시작: https://leaderslight.com/article/%EC%83%81%ED%92%88-qa/6/94886/
+2025-08-16 07:14:48,148 - __main__ - ERROR - URL 분석 중 오류 발생: 'content'
+2025-08-16 07:14:55,306 - __main__ - INFO - URL 분석 시작: https://www.kusta.or.kr/bbs/board.php?bo_table=mypage&wr_id=42707&sst=wr_hit&sod=asc&sop=and&page=59
+2025-08-16 07:15:00,341 - __main__ - ERROR - URL 분석 중 오류 발생: 'content'
+2025-08-16 07:16:12,133 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 07:16:15,613 - __main__ - INFO - URL 분석 시작: https://www.kusta.or.kr/bbs/board.php?bo_table=mypage&wr_id=42707&sst=wr_hit&sod=asc&sop=and&page=59
+2025-08-16 07:16:22,051 - __main__ - ERROR - URL 분석 중 오류 발생: 'content'
+2025-08-16 07:16:32,765 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/250670/
+2025-08-16 07:16:38,695 - __main__ - ERROR - URL 분석 중 오류 발생: 'content'
+2025-08-16 07:16:57,954 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/250670/
+2025-08-16 07:17:03,065 - __main__ - ERROR - URL 분석 중 오류 발생: 'content'
+2025-08-16 07:24:50,755 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 15:44:02,856 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 16:09:00,502 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 16:09:15,806 - __main__ - INFO - 웹사이트 스마트 분석 시작: http://bongajangsuchon.com/
+2025-08-16 16:11:47,313 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 16:11:52,057 - __main__ - INFO - 웹사이트 스마트 분석 시작: https://junginfood.com/index.html
+2025-08-16 16:12:42,978 - __main__ - INFO - 웹사이트 분석 완료: https://junginfood.com/index.html (평균 위험점수: 0.00)
+2025-08-16 16:16:21,241 - __main__ - INFO - 웹사이트 스마트 분석 시작: https://leaderslight.com/
+2025-08-16 16:29:33,282 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 16:29:37,336 - __main__ - INFO - 웹사이트 스마트 분석 시작: https://leaderslight.com/
+2025-08-16 16:33:43,587 - __main__ - INFO - 웹사이트 분석 완료: https://leaderslight.com/ (평균 위험점수: 0.00)
+2025-08-16 16:46:02,095 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 16:46:07,020 - __main__ - INFO - 웹사이트 스마트 분석 시작: https://leaderslight.com/
+2025-08-16 16:51:02,689 - __main__ - INFO - URL 분석 시작: https://moojimoojius.co.kr/article/%EC%83%81%ED%92%88-qa/6/399081/
+2025-08-16 16:51:08,148 - __main__ - INFO - URL 분석 완료: https://moojimoojius.co.kr/article/%EC%83%81%ED%92%88-qa/6/399081/ (위험점수: 2)
+2025-08-16 23:40:53,897 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-16 23:41:05,947 - __main__ - INFO - 웹사이트 스마트 분석 시작: https://moojimoojius.co.kr/index.html
+2025-08-16 23:47:34,913 - __main__ - INFO - URL 분석 시작: https://moojimoojius.co.kr/article/%EC%83%81%ED%92%88-qa/6/399081/
+2025-08-18 23:05:41,692 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-18 23:06:06,204 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/250670/
+2025-08-18 23:06:13,304 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/250670/ (위험점수: 4)
+2025-08-18 23:06:33,620 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6/ (최대 5페이지)
+2025-08-18 23:06:33,621 - __main__ - ERROR - 게시판 분석 중 오류 발생: 'URLKeywordDetectionSystem' object has no attribute 'get_board_post_urls'
+2025-08-18 23:06:45,089 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6/ (최대 5페이지)
+2025-08-18 23:06:45,090 - __main__ - ERROR - 게시판 분석 중 오류 발생: 'URLKeywordDetectionSystem' object has no attribute 'get_board_post_urls'
+2025-08-18 23:07:12,307 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-18 23:07:22,391 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6/ (최대 5페이지)
+2025-08-18 23:07:22,392 - __main__ - ERROR - 게시판 분석 중 오류 발생: 'ManualCrawler' object has no attribute 'get_board_post_urls'
+2025-08-18 23:07:48,496 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-18 23:07:55,957 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6/ (최대 10페이지)
+2025-08-18 23:08:19,567 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405611/
+2025-08-18 23:08:25,369 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405610/
+2025-08-18 23:08:30,504 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405609/
+2025-08-18 23:08:34,721 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405608/
+2025-08-18 23:08:39,489 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405607/
+2025-08-18 23:08:44,421 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405606/
+2025-08-18 23:08:48,699 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405605/
+2025-08-18 23:08:53,405 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405604/
+2025-08-18 23:08:59,140 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405603/
+2025-08-18 23:09:04,288 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405602/
+2025-08-18 23:09:08,889 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405601/
+2025-08-18 23:09:13,176 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405601/ (위험점수: 2)
+2025-08-18 23:09:13,176 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405600/
+2025-08-18 23:09:18,425 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405600/ (위험점수: 2)
+2025-08-18 23:09:18,426 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405599/
+2025-08-18 23:09:23,312 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405599/ (위험점수: 2)
+2025-08-18 23:09:23,313 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405598/
+2025-08-18 23:09:28,485 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405598/ (위험점수: 2)
+2025-08-18 23:09:28,486 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405597/
+2025-08-18 23:09:34,379 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405597/ (위험점수: 2)
+2025-08-18 23:09:34,380 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405596/page/2/
+2025-08-18 23:09:39,247 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405596/page/2/ (위험점수: 2)
+2025-08-18 23:09:39,250 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405595/page/2/
+2025-08-18 23:09:44,001 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405595/page/2/ (위험점수: 2)
+2025-08-18 23:09:44,003 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405594/page/2/
+2025-08-18 23:09:48,830 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405594/page/2/ (위험점수: 2)
+2025-08-18 23:09:48,831 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405593/page/2/
+2025-08-18 23:09:53,065 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405593/page/2/ (위험점수: 2)
+2025-08-18 23:09:53,067 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405592/page/2/
+2025-08-18 23:09:57,738 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405592/page/2/ (위험점수: 2)
+2025-08-18 23:09:57,739 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405591/page/2/
+2025-08-18 23:10:02,109 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405591/page/2/ (위험점수: 2)
+2025-08-18 23:10:02,109 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405590/page/2/
+2025-08-18 23:10:07,524 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405590/page/2/ (위험점수: 2)
+2025-08-18 23:10:07,524 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405589/page/2/
+2025-08-18 23:10:12,275 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405589/page/2/ (위험점수: 2)
+2025-08-18 23:10:12,275 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405588/page/2/
+2025-08-18 23:10:17,174 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405588/page/2/ (위험점수: 2)
+2025-08-18 23:10:17,174 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405587/page/2/
+2025-08-18 23:10:21,731 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405587/page/2/ (위험점수: 2)
+2025-08-18 23:10:21,732 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405586/page/2/
+2025-08-18 23:10:25,983 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405586/page/2/ (위험점수: 2)
+2025-08-18 23:10:25,985 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405585/page/2/
+2025-08-18 23:10:30,517 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405585/page/2/ (위험점수: 2)
+2025-08-18 23:10:30,518 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405584/page/2/
+2025-08-18 23:10:34,746 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405584/page/2/ (위험점수: 2)
+2025-08-18 23:10:34,747 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405583/page/2/
+2025-08-18 23:10:40,672 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405583/page/2/ (위험점수: 2)
+2025-08-18 23:10:40,673 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405582/page/2/
+2025-08-18 23:10:45,885 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405582/page/2/ (위험점수: 2)
+2025-08-18 23:10:45,885 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405581/page/3/
+2025-08-18 23:10:51,027 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405581/page/3/ (위험점수: 2)
+2025-08-18 23:10:51,028 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405580/page/3/
+2025-08-18 23:10:55,461 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405580/page/3/ (위험점수: 2)
+2025-08-18 23:10:55,461 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405579/page/3/
+2025-08-18 23:11:00,412 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405579/page/3/ (위험점수: 2)
+2025-08-18 23:11:00,412 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405578/page/3/
+2025-08-18 23:11:05,278 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405578/page/3/ (위험점수: 2)
+2025-08-18 23:11:05,278 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405577/page/3/
+2025-08-18 23:11:10,316 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405577/page/3/ (위험점수: 2)
+2025-08-18 23:11:10,317 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405576/page/3/
+2025-08-18 23:11:15,424 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405576/page/3/ (위험점수: 2)
+2025-08-18 23:11:15,425 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405575/page/3/
+2025-08-18 23:11:19,658 - __main__ - INFO - URL 분석 완료: https://junginfood.com/article/qa/6/1405575/page/3/ (위험점수: 2)
+2025-08-18 23:11:19,659 - __main__ - INFO - URL 분석 시작: https://junginfood.com/article/qa/6/1405574/page/3/
+2025-08-18 23:11:23,822 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-726' coro=<Page.wait_for_load_state() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:571> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-08-18 23:11:23,824 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-729' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-08-18 23:11:23,824 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-728' coro=<Page.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:828> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-08-18 23:11:23,824 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-727' coro=<Waiter.reject_on_timeout.<locals>.reject() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_waiter.py:86> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-08-18 23:29:37,244 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-18 23:29:54,021 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6/?board_no=6&page=17 (최대 5페이지)
+2025-08-18 23:31:23,206 - __main__ - ERROR - URL 분석 중 오류 발생: BrowserContext.close: Target page, context or browser has been closed
+2025-08-18 23:31:23,209 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,209 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,210 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,210 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,210 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,210 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,211 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,211 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,211 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,211 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,211 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,212 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,212 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,212 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,213 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,214 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,215 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,215 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,216 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,216 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,216 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,217 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,217 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,217 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,218 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,218 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,218 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,218 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,218 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,219 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,219 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,219 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,219 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,219 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,220 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,220 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,223 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,223 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,224 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,224 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,224 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,225 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,225 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,225 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,225 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,225 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,226 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,226 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,226 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,227 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,227 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,227 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,234 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,234 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,234 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,235 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,235 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,235 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,235 - __main__ - ERROR - URL 분석 중 오류 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-18 23:31:23,236 - __main__ - INFO - 게시판 분석 완료: https://junginfood.com/board/qa/6/?board_no=6&page=17 (평균 위험점수: 0.00)
+2025-08-18 23:31:26,370 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-18 23:31:32,543 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (최대 2페이지)
+2025-08-18 23:34:02,298 - __main__ - INFO - 게시판 분석 완료: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (평균 위험점수: 4.00)
+2025-08-18 23:50:08,704 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-18 23:54:12,135 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:01:01,771 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:01:12,109 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (최대 2페이지)
+2025-08-19 00:04:44,403 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:04:44,403 - __main__ - ERROR - 시스템 초기화 실패: EOF when reading a line
+2025-08-19 00:07:03,633 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:07:12,070 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (최대 1페이지)
+2025-08-19 00:10:40,236 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:10:48,054 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (최대 1페이지)
+2025-08-19 00:11:18,736 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:11:18,737 - __main__ - ERROR - 시스템 초기화 실패: EOF when reading a line
+2025-08-19 00:11:48,655 - main - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:11:48,656 - main - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (최대 1페이지)
+2025-08-19 00:12:41,843 - main - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:12:41,844 - main - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (최대 1페이지)
+2025-08-19 00:13:32,481 - main - ERROR - 게시판 분석 중 오류 발생: [Errno 32] Broken pipe
+2025-08-19 00:18:14,506 - main - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:18:14,507 - main - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (최대 1페이지)
+2025-08-19 00:19:29,221 - main - INFO - 게시판 분석 완료: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (평균 위험점수: 65.40)
+2025-08-19 00:21:30,641 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:21:42,274 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (최대 1페이지)
+2025-08-19 00:22:56,709 - __main__ - INFO - 게시판 분석 완료: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (평균 위험점수: 79.93)
+2025-08-19 00:27:52,281 - main - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:27:52,282 - main - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=2 (최대 1페이지)
+2025-08-19 00:29:05,161 - main - ERROR - 게시판 분석 중 오류 발생: [Errno 32] Broken pipe
+2025-08-19 00:30:32,634 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:31:01,893 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:31:32,217 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=3 (최대 1페이지)
+2025-08-19 00:32:36,762 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-239' coro=<Page.goto() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:549> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-08-19 00:32:36,770 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-240' coro=<Page.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:828> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-08-19 00:32:36,771 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-241' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-08-19 00:50:28,220 - __main__ - INFO - 키워드가 데이터베이스에 로드되었습니다.
+2025-08-19 00:50:39,057 - __main__ - INFO - 게시판 분석 시작: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=3 (최대 1페이지)
+2025-08-19 00:51:53,040 - __main__ - INFO - 게시판 분석 완료: https://junginfood.com/board/qa/6?board_no=6&search=%ED%86%A0%ED%86%A0&search_key=subject&search_date=week&page=3 (평균 위험점수: 41.80)
+2025-08-29 01:04:33,826 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-387' coro=<Page.wait_for_load_state() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:571> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-08-29 01:04:33,828 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-390' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-08-29 01:04:33,828 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-389' coro=<Page.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:828> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-08-29 01:04:33,828 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-388' coro=<Waiter.reject_on_timeout.<locals>.reject() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_waiter.py:86> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-08-30 20:48:36,450 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-114' coro=<Page.wait_for_load_state() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:571> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-08-30 20:48:36,451 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-117' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-08-30 20:48:36,451 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-116' coro=<Page.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:828> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-08-30 20:48:36,452 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-115' coro=<Waiter.reject_on_timeout.<locals>.reject() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_waiter.py:86> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-08-31 12:08:13,841 - utils.validator - INFO - 키워드 검증 완료: 총 42개 키워드, 4개 카테고리
+2025-08-31 12:08:13,861 - utils.validator - INFO - PostgreSQL 버전: PostgreSQL 16.9 (Ubuntu 16.9-0ubuntu0.24.04.1) on ...
+2025-08-31 12:08:13,921 - utils.validator - INFO - 키워드 테이블: 42개 키워드
+2025-08-31 12:08:13,928 - utils.validator - INFO - 데이터베이스 인덱스: 3개
+2025-08-31 12:08:13,930 - utils.validator - INFO - 디스크 공간: 949.9GB / 1006.9GB 사용 가능
+2025-08-31 12:08:13,931 - utils.validator - WARNING - psutil 모듈 없음 - 메모리/CPU 검사 건너뜀
+2025-08-31 12:08:13,935 - config.settings - WARNING - 설정 경고:
+2025-08-31 12:08:13,935 - config.settings - WARNING -   - psutil 모듈이 설치되지 않음 - 시스템 리소스 모니터링 제한
+2025-08-31 12:08:13,935 - config.settings - INFO - 모든 설정이 정상적으로 검증되었습니다.
+2025-08-31 12:08:13,962 - __main__ - INFO - 병렬 처리 워커 수: 4
+2025-08-31 12:09:23,055 - utils.validator - INFO - 키워드 검증 완료: 총 42개 키워드, 4개 카테고리
+2025-08-31 12:09:23,074 - utils.validator - INFO - PostgreSQL 버전: PostgreSQL 16.9 (Ubuntu 16.9-0ubuntu0.24.04.1) on ...
+2025-08-31 12:09:23,084 - utils.validator - INFO - 키워드 테이블: 42개 키워드
+2025-08-31 12:09:23,088 - utils.validator - INFO - 데이터베이스 인덱스: 3개
+2025-08-31 12:09:23,089 - utils.validator - INFO - 디스크 공간: 949.9GB / 1006.9GB 사용 가능
+2025-08-31 12:09:23,090 - utils.validator - INFO - 메모리: 5.9GB / 7.7GB 사용 가능
+2025-08-31 12:09:24,091 - utils.validator - INFO - CPU: 8코어, 사용률 0.4%
+2025-08-31 12:09:24,094 - config.settings - INFO - 모든 설정이 정상적으로 검증되었습니다.
+2025-08-31 12:09:24,127 - __main__ - INFO - 병렬 처리 워커 수: 4
+2025-08-31 12:29:12,793 - __main__ - INFO - 병렬 처리 모드로 15개 URL 분석
+2025-08-31 12:29:12,793 - utils.parallel - INFO - 15개 URL 병렬 크롤링 시작 (최대 워커: 4)
+2025-08-31 12:29:13,928 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202978/page/1/ 크롤링 중 예외 발생: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x7e89578be100 (otid=0x7e89578c1980) current active started main>
+	Expected: <greenlet.greenlet object at 0x7e895789b300 (otid=0x7e89578959b0) suspended active started main>
+2025-08-31 12:29:13,929 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202976/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,929 - utils.parallel - INFO - 진행률: 6.7% (1/15)
+2025-08-31 12:29:13,929 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202975/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,929 - utils.parallel - INFO - 진행률: 13.3% (2/15)
+2025-08-31 12:29:13,929 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202974/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,930 - utils.parallel - INFO - 진행률: 20.0% (3/15)
+2025-08-31 12:29:13,930 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202973/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,930 - utils.parallel - INFO - 진행률: 26.7% (4/15)
+2025-08-31 12:29:13,930 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202972/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,931 - utils.parallel - INFO - 진행률: 33.3% (5/15)
+2025-08-31 12:29:13,937 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202971/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,937 - utils.parallel - INFO - 진행률: 40.0% (6/15)
+2025-08-31 12:29:13,937 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202970/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,937 - utils.parallel - INFO - 진행률: 46.7% (7/15)
+2025-08-31 12:29:13,938 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202969/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,938 - utils.parallel - INFO - 진행률: 53.3% (8/15)
+2025-08-31 12:29:13,938 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202968/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,938 - utils.parallel - INFO - 진행률: 60.0% (9/15)
+2025-08-31 12:29:13,938 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202967/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,939 - utils.parallel - INFO - 진행률: 66.7% (10/15)
+2025-08-31 12:29:13,939 - utils.parallel - ERROR - URL https://junginfood.com/article/qa/6/2202966/page/1/ 크롤링 중 예외 발생: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2025-08-31 12:29:13,939 - utils.parallel - INFO - 진행률: 73.3% (11/15)
+2025-08-31 12:29:13,940 - utils.parallel - INFO - 진행률: 80.0% (12/15)
+2025-08-31 12:29:14,092 - utils.parallel - INFO - 진행률: 86.7% (13/15)
+2025-08-31 12:29:14,145 - utils.parallel - INFO - 진행률: 93.3% (14/15)
+2025-08-31 12:29:14,338 - utils.parallel - INFO - 진행률: 100.0% (15/15)
+2025-08-31 12:29:14,339 - utils.parallel - INFO - 병렬 크롤링 완료: 0개 성공, 처리시간: 1.55초
+2025-08-31 12:29:14,339 - utils.parallel - INFO - 평균 처리 시간: 0.10초/URL
+2025-08-31 12:29:29,616 - __main__ - INFO - 순차 처리 모드로 15개 URL 분석
+2025-08-31 12:32:13,982 - utils.validator - INFO - 키워드 검증 완료: 총 42개 키워드, 4개 카테고리
+2025-08-31 12:32:14,001 - utils.validator - INFO - PostgreSQL 버전: PostgreSQL 16.9 (Ubuntu 16.9-0ubuntu0.24.04.1) on ...
+2025-08-31 12:32:14,013 - utils.validator - INFO - 키워드 테이블: 42개 키워드
+2025-08-31 12:32:14,017 - utils.validator - INFO - 데이터베이스 인덱스: 3개
+2025-08-31 12:32:14,018 - utils.validator - INFO - 디스크 공간: 949.9GB / 1006.9GB 사용 가능
+2025-08-31 12:32:14,020 - utils.validator - INFO - 메모리: 5.9GB / 7.7GB 사용 가능
+2025-08-31 12:32:15,021 - utils.validator - INFO - CPU: 8코어, 사용률 0.6%
+2025-08-31 12:32:15,025 - config.settings - INFO - 모든 설정이 정상적으로 검증되었습니다.
+2025-08-31 12:43:09,356 - crawler.manual_crawler - INFO - 페이지 1: 15개 링크 수집
+2025-08-31 12:43:11,140 - crawler.manual_crawler - ERROR - 크롤링 오류: https://junginfood.com/article/qa/6/2179251/page/1/ - Event loop is closed! Is Playwright already stopped?
+2025-08-31 14:13:13,146 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<Page.goto() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:549> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-08-31 14:13:13,148 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-8' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-06 22:04:16,663 - asyncio - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-06 22:06:31,670 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-149' coro=<Page.goto() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:549> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-06 22:06:31,671 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-151' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-06 22:06:31,672 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-150' coro=<Page.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:828> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-07 00:18:57,726 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.158.74:5000
+2025-09-07 00:18:57,726 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-11 00:11:33,407 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<Page.goto() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:549> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 00:11:33,416 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-8' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 03:57:23,095 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-218' coro=<Page.wait_for_load_state() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:571> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 03:57:23,097 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-221' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 03:57:23,097 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-220' coro=<Page.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:828> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 03:57:23,098 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-219' coro=<Waiter.reject_on_timeout.<locals>.reject() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_waiter.py:86> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-09-11 04:06:11,487 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-34' coro=<Page.wait_for_load_state() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:571> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 04:06:11,489 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-37' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 04:06:11,489 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-36' coro=<Page.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:828> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 04:06:11,490 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-35' coro=<Waiter.reject_on_timeout.<locals>.reject() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_waiter.py:86> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-09-11 04:17:01,049 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-32' coro=<Page.wait_for_load_state() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:571> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 04:17:01,056 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-35' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 04:17:01,056 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-34' coro=<Page.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:828> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 04:17:01,057 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-33' coro=<Waiter.reject_on_timeout.<locals>.reject() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_waiter.py:86> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-09-11 04:29:44,864 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-28' coro=<BrowserContext.new_page() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:332> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 04:29:44,867 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-29' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 04:34:53,472 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<BrowserContext.new_page() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:332> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 04:34:53,474 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 04:39:34,650 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<BrowserContext.new_page() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:332> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 04:39:34,652 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-7' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 05:00:56,838 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-36' coro=<Page.wait_for_load_state() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:571> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 05:00:56,840 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-39' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 05:00:56,840 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-38' coro=<Page.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:828> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 05:00:56,842 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-37' coro=<Waiter.reject_on_timeout.<locals>.reject() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_waiter.py:86> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-09-11 10:34:35,074 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-36' coro=<Page.wait_for_load_state() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:571> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 10:34:35,076 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-39' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 10:34:35,076 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-38' coro=<Page.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:828> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 10:34:35,077 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-37' coro=<Waiter.reject_on_timeout.<locals>.reject() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_waiter.py:86> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-09-11 11:09:37,923 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-34' coro=<Page.wait_for_load_state() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:571> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 11:09:37,925 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-36' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 11:09:37,926 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-35' coro=<Waiter.reject_on_timeout.<locals>.reject() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_waiter.py:86> wait_for=<Future pending cb=[Task.task_wakeup()]>>
+2025-09-11 11:14:53,363 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-11 11:14:59,319 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-11 11:15:06,065 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-11 11:15:12,780 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-11 11:15:19,381 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-11 11:15:22,833 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-88' coro=<Page.goto() done, defined at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_page.py:549> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_connection.py:228]>
+2025-09-11 11:15:22,836 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-89' coro=<BrowserContext.close() running at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_browser_context.py:588> cb=[SyncBase._sync.<locals>.<lambda>() at /home/eoni/.local/lib/python3.12/site-packages/playwright/_impl/_sync_base.py:111]>
+2025-09-11 11:23:46,625 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:23:53,294 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:24:19,392 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:24:32,318 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:24:43,659 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:24:59,454 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:25:17,485 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:25:32,284 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:25:44,002 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:25:58,690 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:26:13,227 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:26:28,209 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:26:38,258 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:26:52,349 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:36:55,323 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-11 11:37:01,923 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
